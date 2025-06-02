@@ -1,6 +1,7 @@
 1. Ein Modul hat eine große Texture (High Resolution)
    -> Mit einem Modul sind mehrere Chunks gemeint die ein ähnliches aussehen haben ca. 10-15 Chunks
    -> Jedes Objekte teilt sich die selbe Texture (4096 x 4096)
+   -> Mehrere Level können aus einem Modul bestehen
 
 2. Main Objects (Color Objects (Mid Resolution))
    -> Objekte mit Color Map welche gut genug sein sollten um über das ganze Spiel verwendet zu werden.
